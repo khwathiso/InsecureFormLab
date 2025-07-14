@@ -36,7 +36,8 @@
 
 ## ⚙️ How to Run the Project
 
-### Backend
+### Backend And Frontend
+
 
 ```bash
 cd backend
@@ -47,7 +48,6 @@ python manage.py migrate
 python manage.py runserver
 
 ---
-### Frontend
 
 cd frontend
 npm install
